@@ -1,6 +1,5 @@
 KnapSack and Travveling Sales man problem Using genetic algorithm hill climbing and Simulated annealing
 Assignment II
-Make a group of a maximum of 3 students (30 pts)
 1. The knapsack problem is a problem in combinatorial optimization: Given a set of items,
 each with a weight and a value, determine the number of each item included in a
 collection so that the total weight is less than or equal to a given limit and the total value
