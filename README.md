@@ -19,7 +19,7 @@ should ignore it. The third and onwards should have a comma-separated list of an
 name, its weight in kilogram, and the item's value in USD. The list should contain 10, 15,
 and 20 items. It might be tiresome to write 20 items, hence, write some randomized
 program that generates such a list for you.
-2. The traveling salesperson problem (TSP) (30 pts)
+2. The traveling salesperson problem (TSP)
 Write three algorithms (Genetic Algorithm, Hill Climbing, and Simulated Annealing) to
 solve the TSP problem. Your algorithm should take a file on the command line in the
 following fashion:
